@@ -1,6 +1,6 @@
 # loginPHP
 
-<p>Olá! este é um Projeto que finalizei com intuito de me desafiar e praticar técnicas em PHP e JavaScript. Uma tela de login com integração com o banco de dados MySQL, responsiva e com um design inovador. Irei com o tempo atualizando cada vez mais este projeto, com novas interfaces e funcionabilidades que irei implementar para estudo e para práticar! 🚀</p><br>
+<p>Olá! este é um projeto que finalizei com intuito de me desafiar e praticar técnicas em PHP e JavaScript. Uma tela de login com integração com o banco de dados MySQL, responsiva e com um design inovador. Irei com o tempo atualizando cada vez mais este projeto, com novas interfaces e funcionabilidades que irei implementar para estudo e para práticar! 🚀</p><br>
 
 <h2>Estrutura do Projeto:</h2>
 <br>
