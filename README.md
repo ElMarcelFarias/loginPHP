@@ -22,13 +22,13 @@
 <br>
 <h2>Telas:</h2>
 <br>
-![screen1](https://user-images.githubusercontent.com/92833379/165304793-9f754384-3c21-4481-9e88-f3f8dad0f14e.png)
+<img src="https://user-images.githubusercontent.com/92833379/165304793-9f754384-3c21-4481-9e88-f3f8dad0f14e.png"/>
 <br>
-![screen2](https://user-images.githubusercontent.com/92833379/165304835-858111fd-2d7e-4d2c-a764-6998bf47546d.png)
+<img src="https://user-images.githubusercontent.com/92833379/165304835-858111fd-2d7e-4d2c-a764-6998bf47546d.png"/>
 <br>
-![screen3](https://user-images.githubusercontent.com/92833379/165304869-5bc7e312-a818-4f69-b8f8-8d194f161982.png)
+<img src="https://user-images.githubusercontent.com/92833379/165304869-5bc7e312-a818-4f69-b8f8-8d194f161982.png"/>
 <br>
-![screen4](https://user-images.githubusercontent.com/92833379/165304905-8fc89f64-3e95-4009-b8e7-88e1ada3e6b0.png)
+<img src="https://user-images.githubusercontent.com/92833379/165304905-8fc89f64-3e95-4009-b8e7-88e1ada3e6b0.png"/>
 <br>
 <p>Obrigado por visualizar! 😊</p>
 
