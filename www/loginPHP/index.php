@@ -11,6 +11,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Marcel Leite de Farias">
     <link rel="stylesheet" href="style.css">
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/jquery.mask.min.js"></script>
     <title>Login</title>
 </head>
 <body>
@@ -103,7 +105,7 @@
                     <form method="POST">
                         <h1>Cadastrar</h1>
                         <input type="text" name="nome" placeholder="Nome Completo" maxlength="30">
-                        <input type="text" name="telefone" placeholder="Telefone" maxlength="30">
+                        <input type="text" name="telefone" placeholder="Telefone" id="celular" maxlength="11">
                         <input type="email" name="email" placeholder="Email do Usuário" maxlength="70">
                         <input type="password" name="senha" placeholder="Senha" maxlength="15">
                         <input type="password" name="confSenha" placeholder="Confirmar Senha" maxlength="15">
@@ -154,7 +156,14 @@
             container = document.querySelector('.container');
             container.classList.toggle('active');
             section.classList.toggle('active');
+
+            $(document).ready(function(){
+                $("#").mask("");
+            })
+
+            $("#celular").mask("(00) 00000-0000");
         }
+        
         
     </script>
 
