@@ -27,6 +27,7 @@
                         <input type="password" name="senha" placeholder="Senha">
                         <input type="submit" value="ACESSAR">
                         <p class="signup">dont' have an account? <a onclick="toggleForm();">Sign up.</a></p>
+                        <p class="signinDev">Desenvolvido por - <a href="https://www.linkedin.com/in/marcel-leite-de-farias-38b62b220/">Marcel Leite de Farias</a></p>
                     </form>
                 </div>
             </div>
